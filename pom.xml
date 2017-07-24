@@ -11,7 +11,7 @@
 
   <groupId>net.stickycode.tile</groupId>
   <artifactId>sticky-tile-parent-api</artifactId>
-  <version>1.2</version>
+  <version>1.3-SNAPSHOT</version>
 
   <packaging>tile</packaging>
   <name>${project.artifactId}-1</name>
@@ -20,7 +20,7 @@
   <scm>
     <connection>${git.url}</connection>
     <developerConnection>${git.url}</developerConnection>
-    <tag>sticky-tile-parent-api-1.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
