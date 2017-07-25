@@ -2,6 +2,6 @@
 <project>
   <tiles>
     <tile>net.stickycode.tile:sticky-tile-release:[1,2)</tile>
-    <tile>net.stickycode.tile:sticky-tile-apicheck:[1,2)</tile>
+    <tile>net.stickycode.tile:sticky-tile-apicheck:[2,3)</tile>
   </tiles>
 </project>
